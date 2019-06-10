@@ -1,2 +1,3 @@
 # Hola-mundo
-practica1
+Practica1
+En está practica aprenderemos el uso de ramas en GITHUB
